@@ -9,4 +9,4 @@ app.get("/", function(req, res){
 });
 
 //console.log(generated + " runnning");
-app.listen(8080);
+app.listen(3000);
